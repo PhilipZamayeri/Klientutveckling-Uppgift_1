@@ -1,0 +1,29 @@
+h3{
+    color: red;
+}
+
+a{
+    color: seagreen;
+    
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    font-size: 1rem;
+}
+
+.projekt-one-title{
+    color: slateblue;
+}
+
+#title1{
+color: tan;
+}
+
+.projekt-container{
+    display: flex;
+}
+
+ul{
+    list-style: none;
+}
