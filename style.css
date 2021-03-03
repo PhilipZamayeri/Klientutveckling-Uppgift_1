@@ -1,14 +1,20 @@
 html{
     font-family: 'Open Sans', sans-serif;
     background-color: beige;
-    text-align: center;
 }
 
-a{
+body{
+    text-align: center;
+    margin: 0 auto;
+    width: 600px;
+}
+
+nav a{
     color: blue;
     text-decoration: none;
 }
-a:hover{
+
+nav a:hover{
     color: red;
     font-size: 1rem;
 }
@@ -20,6 +26,10 @@ a:hover{
 ul{
     padding: 0;
     list-style: none;
+}
+
+h1{
+    font-size: 2rem;
 }
 
 .Title-name{
@@ -39,3 +49,12 @@ p{
 footer{
     font-weight: bold;
 }
+
+.github:link, .github:visited{
+    color: darkgreen;
+}
+
+.github:hover{
+color: dodgerblue;
+}
+
