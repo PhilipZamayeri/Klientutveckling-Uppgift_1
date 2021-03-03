@@ -2,7 +2,6 @@ html{
     font-family: 'Open Sans', sans-serif;
     background-color: beige;
     text-align: center;
-
 }
 
 a{
@@ -16,7 +15,6 @@ a:hover{
 
 .projekt-container{
     display: flex;
-   
 }
 
 ul{
@@ -26,8 +24,7 @@ ul{
 
 .Title-name{
     color: darkblue;
-    font-size: 2.5rem;
-    
+    font-size: 2.5rem;  
 }
 
 .info{
@@ -36,7 +33,6 @@ ul{
 }
 
 p{
-    font-weight: bold;
     font-style: italic;
 }
 
